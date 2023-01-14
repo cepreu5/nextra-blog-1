@@ -6,7 +6,7 @@
     "type": "menu",
     "items": {
       "about": {
-        "title": "About",
+        "title": "About Us",
         "href": "/about"
       },
       "contact": {
